@@ -1,36 +1,29 @@
-# Hi there, I’m @majonez-getc 👋
+## Hi there, I’m @majonez-getc 👋
 
-I work in a company closely related to the energy sector, focusing on the design, construction, and organization of power stations. My role as a **Telemechanics Specialist** involves collaborating with industry leaders such as **Siemens** to create and implement solutions for energy infrastructure. I specialize in **automation**, **telecommunication systems**, and **control systems** that are crucial for the functioning of modern power grids.
+I work in the energy sector, specializing in **telemechanics**, **automation**, and **control systems** for power stations. My role involves collaborating with industry leaders like **Siemens** to design and implement solutions for energy infrastructure. I focus on optimizing systems for modern power grids and improving operational efficiency.
 
-In addition to my work in energy systems, I have extensive experience in **building IT networks** and **developing mobile applications** for Android. My background as a student and **IT technician** has provided me with a broad understanding of IT infrastructure, network management, and software development.
+I also have experience in **building IT networks**, **mobile app development** (especially for Android), and **programming**. My background as an **IT technician** has given me a solid understanding of IT infrastructure and network management.
 
-I also have over 5 years of experience as a tutor in **mathematics**, **physics**, and **programming**, helping students develop practical skills and solid theoretical knowledge.
+In addition, I have over 5 years of experience as a tutor in **mathematics**, **physics**, and **programming**, helping students gain practical skills and strong theoretical foundations.
 
 ## 👀 I'm interested in:
 - **Telemechanics** and **automation** in the energy sector
 - **Building and optimizing systems** for power stations and control systems
-- **Python development** for real-world business and industrial solutions
-- **Building IT networks** and providing efficient solutions for data communication and connectivity
-- **Android mobile development** for creating user-friendly and functional applications
+- **Building IT networks** and efficient solutions for data communication
+- **Android development** for creating functional mobile applications
 - **Mathematics**, **physics**, and **programming** education and tutoring
-- **Machine learning** and **artificial intelligence** for predictive modeling and decision-making in industrial applications
-- **Collaboration with Siemens** and other industry leaders to integrate cutting-edge technologies into the energy sector
 
 ## 🌱 I’m currently learning:
-- **Telecommunication systems** and their applications in the **energy industry**
 - Advanced **automation techniques** and **control systems** for power stations
-- **Data science** and **AI** tools for optimizing energy management and predictive maintenance
-- **DevOps** practices, **cloud computing**, and **IoT** in industrial settings
-- Exploring **machine learning** frameworks like **TensorFlow** and **PyTorch** for real-world applications
-- Expanding my knowledge of **Android development**, including modern frameworks and tools for mobile apps
+- **Telecommunication systems** in the **energy industry**
+- Expanding my knowledge of **Android development** and modern frameworks
 
 ## 💞️ I’m looking to collaborate on:
-- Projects that leverage **automation** and **telemechanics** for the energy sector
-- **AI/ML** applications for **predictive maintenance** and **energy optimization**
+- Projects in **automation** and **telemechanics** for the energy sector
 - **Open-source Python projects** with a focus on industrial solutions
-- **Building IT networks** and designing solutions for secure and efficient data communication
+- **Building IT networks** for secure and efficient data communication
 - **Mobile Android development** for practical applications in various domains
-- Developing educational resources and projects to promote **STEM education**, especially in **mathematics**, **physics**, and **programming**
+- Developing educational resources for **STEM education**, especially in **mathematics**, **physics**, and **programming**
 
 ## 📫 How to reach me:
 - **Email**: [mateusz.sladewski2@gmail.com](mailto:mateusz.sladewski2@gmail.com)
