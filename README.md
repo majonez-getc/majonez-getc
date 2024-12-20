@@ -1,28 +1,32 @@
 # Hi there, I’m @majonez-getc 👋
 
-I’m a passionate software developer with a strong foundation in **computer science** and a deep interest in **Python**, **artificial intelligence**, **machine learning**, and **automation**. I have experience creating **custom solutions** for businesses, leveraging technologies such as **OCR (Optical Character Recognition)**, **AI models**, and **data processing systems** to optimize workflow and enhance decision-making.
+I work in a company closely related to the energy sector, focusing on the design, construction, and organization of power stations. My role as a **Telemechanics Specialist** involves collaborating with industry leaders such as **Siemens** to create and implement solutions for the energy infrastructure. I specialize in **automation**, **telecommunication systems**, and **control systems** that are crucial for the functioning of modern power grids.
 
-Currently, I work on designing and developing software that solves complex business problems, including automating manual tasks and analyzing sales data. I thrive on learning new techniques, overcoming challenges, and delivering practical software that makes a real impact.
+In addition to my technical expertise, I have a strong foundation in **computer science** and have worked extensively with **Python**, **automation**, and **data processing**. I also have experience as a student and IT technician, which has provided me with a broad understanding of IT systems, hardware, and software.
+
+Aside from my professional work, I have been teaching **mathematics**, **physics**, and **programming** for over 5 years, helping students develop both practical skills and theoretical knowledge.
 
 ## 👀 I'm interested in:
-- **Developing and optimizing Python applications** for real-world business solutions
-- **Machine learning** and **artificial intelligence** for data analysis and predictive modeling
-- **Computer vision**, particularly **OCR** and **image processing** to automate tasks
-- **Automation and data science** tools that improve business performance and efficiency
+- **Telemechanics** and **automation** in the energy sector
+- **Building and optimizing systems** for power stations and control systems
+- **Python development** for real-world business and industrial solutions
+- **Mathematics**, **physics**, and **programming** education and tutoring
+- **Machine learning** and **artificial intelligence** for predictive modeling and decision-making in industrial applications
+- **Collaboration with Siemens** and other industry leaders to integrate cutting-edge technologies into the energy sector
 
 ## 🌱 I’m currently learning:
-- Advanced machine learning techniques and frameworks like **TensorFlow** and **PyTorch**
-- Deployment of AI/ML models in cloud environments (AWS, GCP, Azure)
-- Building scalable software architectures for large applications
-- **DevOps** practices, CI/CD pipelines, and infrastructure as code
+- **Telecommunication systems** and their applications in the **energy industry**
+- Advanced **automation techniques** and **control systems** for power stations
+- **Data science** and **AI** tools for optimizing energy management and predictive maintenance
+- **DevOps** practices, **cloud computing**, and **IoT** in industrial settings
+- Exploring **machine learning** frameworks like **TensorFlow** and **PyTorch** for real-world applications
 
 ## 💞️ I’m looking to collaborate on:
-- **Open-source Python projects** that address real-world problems
-- **AI/ML research** and cutting-edge applications
-- Building **data science** tools to automate and optimize business processes
-- Exploring **cloud technologies**, deployment strategies, and DevOps
+- Projects that leverage **automation** and **telemechanics** for the energy sector
+- **AI/ML** applications for **predictive maintenance** and **energy optimization**
+- **Open-source Python projects** with a focus on industrial solutions
+- Developing educational resources and projects to promote **STEM education**, especially in **mathematics**, **physics**, and **programming**
 
 ## 📫 How to reach me:
 - **Email**: [mateusz.sladewski2@gmail.com](mailto:mateusz.sladewski2@gmail.com)
 - **LinkedIn**: [linkedin.com/in/mateusz-śladewski](https://www.linkedin.com/in/mateusz-%C5%9Bladewski-566700327/)
-
